@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="creataccount" src=".github/devfinances.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
