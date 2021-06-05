@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <h2>Creat Account</h2>
 </h1>
 
 <p align="center">
